@@ -17,5 +17,5 @@ function dec(n) {
   return n-1
 }
 function() {
-  return 
+  return parseInt('2', 10)
 }
