@@ -16,3 +16,6 @@ function inc(a) {
 function dec(n) {
   return n-1
 }
+function() {
+  return 
+}
